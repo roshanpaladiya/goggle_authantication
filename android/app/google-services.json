@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1058051018106",
+    "project_id": "goggle-authantication",
+    "storage_bucket": "goggle-authantication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058051018106:android:6bfc109d10c87de8e91ac3",
+        "android_client_info": {
+          "package_name": "com.example.google_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058051018106-4cqvn4pmuoun44bg81l760b0637n7bt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-jGsFbTtZ1br7f5lqFgznDF3eRlOu2hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058051018106-4cqvn4pmuoun44bg81l760b0637n7bt8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
